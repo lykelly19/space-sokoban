@@ -9,7 +9,7 @@ Space Sokoban is a spin-off of the popular Sokoban puzzle game (https://en.wikip
 In this 2D block-pushing puzzle game, the player controls a fox with a main objective of pushing crates to specific target locations as denoted by light blue diamonds. In this version, the character and crates are unaffected by gravity and are not limited to move by one block per key press.     
 
 
-![Space Sokoban Gameplay Image]("gameplay.jpg")
+![Space Sokoban Gameplay Image]("https://github.com/lykelly19/space-sokoban/blob/master/gameplay.jpg")
 
 ### How to Setup & Run Program  
 1. Download Unity & Unity Hub (https://store.unity.com/front-page#plans-individual) 
