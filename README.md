@@ -1,6 +1,3 @@
-Kelly Ly   
-Software Engineering I   
-
 # Space Sokoban      
 
 ## Project Description      
